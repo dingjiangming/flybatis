@@ -1,2 +1,2 @@
-# flymvc
-开源web开发框架
+# flybatis
+Java开源持久层框架，仿照MyBatis开发
